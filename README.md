@@ -22,3 +22,7 @@ Code editer
 Github
 - branch
 - fork
+
+
+SHELL
+- shell??? That’s so great and powerful
